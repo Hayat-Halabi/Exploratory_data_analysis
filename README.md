@@ -8,8 +8,6 @@ I'm kicking off this analysis by looking at companies that had a 100% layoff on 
 ![image alt](https://github.com/Hayat-Halabi/Exploratory_data_analysis/blob/main/ss10.png?raw=true)
 
 Next, I wanted to take a closer look at companies that had the highest cumulative number of total layoffs across the whole timeline. This query shows the largest and most significant companies that have cut the most staff overall:
-![image alt](https://github.com/Hayat-Halabi/Exploratory_data_analysis/blob/main/ss10.png?raw=true)
-
 ```sql
 SELECT company, SUM(total_laid_off)
 FROM layoffs2
