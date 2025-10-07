@@ -14,3 +14,4 @@ FROM layoffs2
 GROUP BY company
 ORDER BY 2 DESC;
 ``` 
+![image alt](https://github.com/Hayat-Halabi/Exploratory_data_analysis/blob/main/ss11.png?raw=true)
