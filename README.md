@@ -27,4 +27,5 @@ I also looked at which countries had the highest layoffs, and as expected, the U
 I even explored the data by year to see if there were any patterns and discovered that 2023, despite being only three months in, already had the highest total layoffs for the whole period.
 
 ![image alt](https://github.com/Hayat-Halabi/Exploratory_data_analysis/blob/main/ss12.png?raw=true)
+
 Finally, I calculated a rolling total of the employee layoffs from month to month and placed the original monthly layoffs beside it. I can now visually see the cumulative increase gradually. ![image](https://github.com/Hayat-Halabi/Exploratory_data_analysis/blob/main/ss13.png?raw=true)
