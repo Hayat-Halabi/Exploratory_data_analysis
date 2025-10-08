@@ -28,4 +28,16 @@ I even explored the data by year to see if there were any patterns and discovere
 
 ![image alt](https://github.com/Hayat-Halabi/Exploratory_data_analysis/blob/main/ss12.png?raw=true)
 
-Finally, I calculated a rolling total of the employee layoffs from month to month and placed the original monthly layoffs beside it. I can now visually see the cumulative increase gradually. ![image](https://github.com/Hayat-Halabi/Exploratory_data_analysis/blob/main/ss13.png?raw=true)
+Additionally, I calculated a rolling total of the employee layoffs from month to month and placed the original monthly layoffs beside it. I can now visually see the cumulative increase gradually. ![image](https://github.com/Hayat-Halabi/Exploratory_data_analysis/blob/main/ss13.png?raw=true)
+
+Finally, I'm going to take a look at the top five company layoffs from year to year. This query is going to look at the company, the year, and the number of people they laid off. I will also include a rank so it's easier to visualize the top five companies that let go of the most staff.
+
+With everything organized properly, we can see that the top five companies with the highest layoffs in 2020 were: Uber, Booking.com, Groupon, Swiggy, and Airbnb. The highest was Uber with 7,525 layoffs, and rank five was Airbnb at 1,900.
+
+Moving onto 2021, the top companies were Bytedance, Katerra, Zillow, Instacart, and WhiteHat Jr, with Bytedance being ranked number one for highest layoffs at 3,600 and WhiteHat Jr. at 1,800.
+
+In 2022, our top companies were Meta, Amazon, Cisco, Peloton, Carvana, and Philips. Carvana and Philips were tied for fifth place with layoff numbers at 4,000 each.
+
+The final year, 2023, included a lot of big-name companies: Google, Microsoft, Ericsson, Amazon, Salesforce, and Dell. Amazon and Salesforce were tied for fourth place with 8,000 layoffs each.
+
+![image alt](https://github.com/Hayat-Halabi/Exploratory_data_analysis/blob/main/ss14.png?raw=true)
