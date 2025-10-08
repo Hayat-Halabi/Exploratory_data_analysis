@@ -42,12 +42,10 @@ The final year, 2023, included a lot of big-name companies: Google, Microsoft, E
 
 ![image alt](https://github.com/Hayat-Halabi/Exploratory_data_analysis/blob/main/ss14.png?raw=true)
 
-###Possible Business questions :
+### Possible Business questions :
 
 Based on the exploratory data analysis above, here are some potential business questions that can be answered using the available data:
 
 1. Which industries and companies experienced the highest layoffs between 2020 and 2023, and what patterns can be observed over time?
-
 2. Which geographic regions (countries, states, or cities) were most affected by layoffs from 2020 to 2023, and how did the trends vary by region?
-
-3.Did the frequency or magnitude of layoffs increase during specific months or quarters between 2020 and 2023?
+3. Did the frequency or magnitude of layoffs increase during specific months or quarters between 2020 and 2023?
